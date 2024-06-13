@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on projects related to web development, mobile development and systems building
 - 📫 You can contact me @acheampongjoseph470@gmail.com
 - 📫 **LinkedIn**: https://gh.linkedin.com/in/acheampong-joseph-32b969261
-- ⚡ **Fun fact**: Binary never exists.
+- ⚡ **Fun fact**: The first programmer was a woman. That is why languages are complited
 
 <!---
 Joeboy77/Joeboy77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
