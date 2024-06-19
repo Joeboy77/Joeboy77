@@ -7,7 +7,7 @@
 - **Security Intelligence** enthusiast
 - 🌱 Student, University of Ghana. Computer Science Major
 - 💞️ I’m looking to collaborate on projects related to web development, mobile development and systems building
-- 📫 You can contact me @acheampongjoseph470@gmail.com
+- 📫 You can contact me @joseph.ecktech@gmail.com
 - 📫 **LinkedIn**: https://gh.linkedin.com/in/acheampong-joseph-32b969261
 - ⚡ **Fun fact**: Live to code, code to live🎉
 
