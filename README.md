@@ -1,6 +1,8 @@
 - # Hi, I'm Joseph Acheampong, nice to meet you
 - 👀 I’m a **Fully** **stacked** **Software-Develper**, **Product** **Designer**💻
+  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,django,expressjs,figma,php,nextjs,aws,azure,github,linux,ubuntu)](https://skillicons.dev)
+ 
 - 👀 **Ethical hacking** aspirant
 - **Security Intelligence** enthusiast
 - 🌱 Student, University of Ghana. Computer Science Major
