@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeboy77" alt="joeboy77" /></a> </p>
 
-- 🔭 I’m currently working on **AWStore**
+- 🔭 I’m currently working on **Mobile Applications**
 
 - 🌱 I’m currently learning **Java and spring bot**
 
