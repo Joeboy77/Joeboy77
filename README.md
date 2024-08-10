@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobile Applications**
 
-- 🌱 I’m currently learning **Java and spring bot**
+- 🌱 I’m currently learning **swing and spring bot**
 
 - 👯 I’m looking to collaborate on **full stack applications**
 
