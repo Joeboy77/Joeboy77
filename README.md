@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **full stack applications**
 
-- 👨‍💻 All of my projects are available at [joeboy77.info](joeboy77.info)
+- 👨‍💻 All of my projects are available at [joeboy77.info](https://github.com/Joeboy77)
 
 - 💬 Ask me about **react-native, express, node, react**
 
