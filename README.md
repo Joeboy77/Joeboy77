@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **acheampongjoseph470@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/acheampong joseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="acheampong joseph" height="30" width="40" /></a>
 <a href="https://instagram.com/joe_acheampong2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_acheampong2" height="30" width="40" /></a>
