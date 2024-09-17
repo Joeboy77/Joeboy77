@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react-native, express js, node js, react**
 
-- 📫 How to reach me **acheampongjoseph470@gmail.com**
+- 📫 Checkout my portfolio [my portfolio](https://joeboy-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
