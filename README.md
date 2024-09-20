@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeboy77" alt="joeboy77" /></a> </p>
 
-- 🔭 I’m currently working on **Business mobile app**
+- 🔭 I’m currently working on **LMCS**
 
-- 🌱 I’m currently learning **swing and spring bot**
+- 🌱 I’m currently learning **Solid.js and Brain.js**
 
 - 👯 I’m looking to collaborate on **full stack applications**
 
