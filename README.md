@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [joeboy77.info](https://github.com/Joeboy77)
 
-- 💬 Ask me about **react-native, express js, node js, react**
+- 💬 Ask me about **react-native, express js, node js, react and js**
 
 - 📫 Checkout my portfolio [my portfolio](https://joeboy-portfolio.vercel.app/)
 
