@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **LMCS**
 
-- 🌱 I’m currently learning **Solid.js and Brain.js**
+- 🌱 I’m currently learning **Solid.js, Brain.js and Java**
 
 - 👯 I’m looking to collaborate on **full stack applications**
 
