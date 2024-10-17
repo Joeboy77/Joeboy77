@@ -5,7 +5,7 @@
 
 # 💫 I am Joseph Acheampong,
 ## A full stack software engineer from Ghana.
-🔭 I’m currently working on Nutri_App<br>🌱 I’m currently learning Solid.js, Brain.js and Java<br>👯 I’m looking to collaborate on full stack applications<br>💬 Ask me about react-native, express js, node js, react and js
+🔭 I’m currently working on a mobile and web app(Nutri_App and edu Pro)<br>🌱 I’m currently learning Solid.js, Brain.js and Java<br>👯 I’m looking to collaborate on full stack applications<br>💬 Ask me about react-native, express js, node js, react and js
 
 
 ## 🌐 Socials:
