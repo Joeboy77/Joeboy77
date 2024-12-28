@@ -3,6 +3,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=joeboy77&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 # 💫 I am Joseph Acheampong
 ## A full stack software(mobile and web) engineer from Ghana.
 🔭 I’m currently working on a mobile and web apps(Nutri_App and edu Pro)<br>🌱 I’m currently learning Solid.js and Brain.js<br>👯 I’m looking to collaborate on full stack applications<br>💬 Ask me about react-native, express js, node js, react and js
