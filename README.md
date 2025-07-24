@@ -7,8 +7,9 @@
 *Github top public contributors Ghana *
 [![committers.top badge](https://user-badge.committers.top/ghana_public/Joeboy77.svg)](https://user-badge.committers.top/ghana_public/Joeboy77)
 
+
 *Github top committers Ghana      *
-      [![committers.top badge](https://user-badge.committers.top/ghana/Joeboy77.svg)](https://user-badge.committers.top/ghana/Joeboyy)
+      [![committers.top badge](https://user-badge.committers.top/ghana/Joeboy77.svg)](https://user-badge.committers.top/ghana/Joeboy77)
 
 
 
