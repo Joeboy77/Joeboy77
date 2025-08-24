@@ -20,7 +20,7 @@
 
 
 # 💫 I am Joseph Acheampong
-## A full stack software engineer from Ghana
+## A Software Engineer from Ghana
 
 
 
