@@ -18,7 +18,7 @@
 
 
 # 💫 I am Joseph Acheampong
-## A Software Engineer from Ghana
+## A Software Engineer from Ghana.
 
 
 
